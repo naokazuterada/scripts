@@ -1,4 +1,4 @@
-# Personal bash scripts for develop machines
+# Personal bash scripts
 
 ## Installing
 
@@ -10,4 +10,4 @@ source ~/.zshrc
 
 ## Usage
 
-Read individual command files.
+Read individual script files.
